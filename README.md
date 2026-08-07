@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=HANNAH%20SUMMER&fontSize=46&fontColor=ffffff&color=7C3AED"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=420&lines=SYSTEM+BOOTING..."/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=HANNAH%20SUMMER&fontSize=46&fontColor=ffffff&color=7C3AED"/>
 
 </div>
 
@@ -29,38 +28,28 @@
 ## 👩‍💻 About Me
 
 ```yaml
-name: Hannah Summer
+Name: Hannah Summer
 
-role: Full Stack Developer
+Role: Information Manager / Full Stack Development Learner
 
-location: Brazil
+Location: Brazil / Recife
 
-focus:
-  - Front-end
-  - Back-end
-  - Artificial Intelligence
+Focus:
+- Front-end
+- Back-end
+- Artificial Intelligence
 
-stack:
-  - Angular
-  - TypeScript
-  - JavaScript
-  - Python
+Technologies:
+- Angular
+- TypeScript
+- JavaScript
+- Python
 
-status: Building amazing experiences.
+Status: Creating amazing experiences.
 ```
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HannahSummer&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannahSummer&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -73,12 +62,10 @@ status: Building amazing experiences.
 ## 🚀 Current Mission
 
 ```txt
+> Studying Information Management
 > Building scalable Full Stack applications
-
 > Learning Artificial Intelligence
-
-> Improving UI & UX
-
+> Improving python
 > Open to collaborations
 
 System Status ............. ONLINE 🟣
@@ -97,14 +84,6 @@ System Status ............. ONLINE 🟣
 <a href="SEU_LINK_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HannahSummer&theme=discord&no-frame=true&no-bg=true&column=4"/>
 
 </div>
 
