@@ -1,25 +1,38 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:C084FC&height=120&section=footer"/>
+
+</div>
+
+---
+
 <div align="center">
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=36&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=HANNAH+SUMMER;Full+Stack+Developer;Angular+%7C+TypeScript+%7C+Python"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26,27&height=180&section=header&text=HANNAH%20SUMMER&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
 ---
 
-# 💜 HANNAH AI CORE
+<div align="center">
 
-```console
-Initializing System...
+<img src="./assets/banner.svg" width="100%">
 
-✔ Developer detected
-✔ Creativity enabled
-✔ Code engine activated
-✔ Portfolio loaded
+<br><br>
 
-STATUS: ONLINE
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=SYSTEM+BOOTING..."/>
+
+</div>
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,python,nodejs,html,css,git,github,vscode,figma&theme=dark"/>
+
+</div>
 
 ---
 
@@ -45,17 +58,6 @@ stack:
 
 status: Building amazing experiences.
 ```
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,python,nodejs,html,css,git,github,vscode,figma&theme=dark"/>
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
