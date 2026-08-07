@@ -8,20 +8,65 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#6D28D9"/>
+<stop offset="100%" stop-color="#C084FC"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="6"/>
+</filter>
+
+</defs>
+
+<rect
+x="70"
+y="30"
+rx="12"
+ry="12"
+width="1060"
+height="150"
+fill="url(#bg)"
+transform="skewX(-8)"
+/>
+
+<text
+x="600"
+y="105"
+text-anchor="middle"
+fill="white"
+font-size="52"
+font-family="Segoe UI"
+font-weight="700">
+
+HANNAH SUMMER
+
+</text>
+
+<text
+x="600"
+y="145"
+text-anchor="middle"
+fill="#F5F3FF"
+font-size="20"
+font-family="Consolas">
+
+FULL STACK DEVELOPER
+
+</text>
+
+</svg>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=SYSTEM+BOOTING..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=SYSTEM+BOOTING..."/>
 
 </div>
----
 
-<div align="center">
-
-# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=36&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=HANNAH+SUMMER;Full+Stack+Developer;Angular+%7C+TypeScript+%7C+Python"/>
-
-</div>
 ---
 
 ## ⚡ Tech Stack
@@ -29,6 +74,14 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,python,nodejs,html,css,git,github,vscode,figma&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=36&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=HANNAH+SUMMER;Full+Stack+Developer;Angular+%7C+TypeScript+%7C+Python"/>
 
 </div>
 
