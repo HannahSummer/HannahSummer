@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:C084FC&height=120&section=header&reversal=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=24,25,26&text=HANNAH%20SUMMER&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=SYSTEM+BOOTING..."/>
