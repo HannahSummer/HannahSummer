@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=24,25,26&text=HANNAH%20SUMMER&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&colorA=6D28D9&colorB=C084FC&text=HANNAH%20SUMMER&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=SYSTEM+BOOTING..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=420&lines=SYSTEM+BOOTING..."/>
 
 </div>
 
