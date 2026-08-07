@@ -8,21 +8,20 @@
 
 <div align="center">
 
+<img src="./assets/banner.svg" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=SYSTEM+BOOTING..."/>
+
+</div>
+---
+
+<div align="center">
+
 # <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=36&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=HANNAH+SUMMER;Full+Stack+Developer;Angular+%7C+TypeScript+%7C+Python"/>
 
 </div>
-
----
-<div align="center">
-
-<img src="./assets/banner.svg" width="100%">
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=SYSTEM+BOOTING..."/>
-
-</div>
-
 ---
 
 ## ⚡ Tech Stack
